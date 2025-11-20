@@ -162,12 +162,7 @@ out/Default/language_identifier_main
 ```
 ### Bugs and Feature Requests
 
-Open a [GitHub issue](https://github.com/google/cld3/issues) for this repository to file bugs and feature requests.
-
-### Announcements and Discussion
-
-For announcements regarding major updates as well as general discussion list, please subscribe to:
-[cld3-users@googlegroups.com](https://groups.google.com/forum/#!forum/cld3-users)
+Open a [GitHub issue](https://github.com/akihikodaki/cld3/issues) for this repository to file bugs and feature requests.
 
 ### Credits
 

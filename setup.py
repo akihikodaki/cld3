@@ -99,12 +99,12 @@ ext_modules = [
 
 DESCRIPTION = """CLD3 is a neural network model for language identification.
 This package contains the inference code and a trained model. See
-https://github.com/google/cld3 for more details.
+https://github.com/akihikodaki/cld3 for more details.
 """
 
 setuptools.setup(
-    author='Rami Al-Rfou',
-    author_email='rmyeid@google.com',
+    author='Akihiko Odaki',
+    author_email='akihiko.odaki@gmail.com',
     cmdclass={
         'build_ext': CompileProtos,
     },
@@ -114,7 +114,7 @@ setuptools.setup(
     long_description=DESCRIPTION,
     name=_NAME,
     setup_requires=REQUIREMENTS,
-    url='https://github.com/google/cld3',
+    url='https://github.com/akihikodaki/cld3',
     version=__version__,
     zip_safe=False,
 )
